@@ -222,11 +222,4 @@ class CSSAB(nn.Module):
         # decoder_weight = self.get_last_layer()
         return abu_est, re_result
 
-# 现在你可以创建一个U-Net模型实例并进行训练或预测：
-#model = UNet(n_channels=156, n_classes=3, bilinear=False, spec_type="all")
-
-# 假设输入形状为(95, 95, 156)，需要调整为(1, 156, 95, 95)
-#input_tensor = torch.randn(1, 156, 224, 224)  # batch_size=1, channels=156, height=95, width=95
-#output = model(input_tensor)
-#print(output.shape)
 

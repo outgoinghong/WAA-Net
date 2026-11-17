@@ -1,4 +1,4 @@
-# WAA-Net
-Wavelet-Augmented Attention Network for Hyperspectral Unmixing
+# WSR-Net
+WSR-Net:Wavelet-drivenspectral–spatial reciprocalnetwork for hyperspectral unmixing with spectral variability
 
-The code in this toolbox implements the "Wavelet-Augmented Attention Network for Hyperspectral Unmixing".
+The code in this toolbox implements the "WSR-Net:Wavelet-drivenspectral–spatial reciprocalnetwork for hyperspectral unmixing with spectral variability".
